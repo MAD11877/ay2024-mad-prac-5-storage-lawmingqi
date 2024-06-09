@@ -1,6 +1,0 @@
-sg.edu.np.mad.madpractical5.test.app-annotation-experimental-1.4.0-0 C:\Users\admin\.gradle\caches\transforms-3\18eccf36f7e35251a6d8d3bc89a97686\transformed\annotation-experimental-1.4.0\res
-sg.edu.np.mad.madpractical5.test.app-core-1.5.0-1 C:\Users\admin\.gradle\caches\transforms-3\8cb97d565e9897fc7b44774ccd5161d4\transformed\core-1.5.0\res
-sg.edu.np.mad.madpractical5.test.app-androidTest-2 C:\Users\admin\OneDrive - Ngee Ann Polytechnic\Y2-SEM1\MAD\WK3-Event Handling\Practical5\app\build\generated\res\resValues\androidTest\debug
-sg.edu.np.mad.madpractical5.test.app-mergeDebugAndroidTestResources-3 C:\Users\admin\OneDrive - Ngee Ann Polytechnic\Y2-SEM1\MAD\WK3-Event Handling\Practical5\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-sg.edu.np.mad.madpractical5.test.app-mergeDebugAndroidTestResources-4 C:\Users\admin\OneDrive - Ngee Ann Polytechnic\Y2-SEM1\MAD\WK3-Event Handling\Practical5\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-sg.edu.np.mad.madpractical5.test.app-debugAndroidTest-5 C:\Users\admin\OneDrive - Ngee Ann Polytechnic\Y2-SEM1\MAD\WK3-Event Handling\Practical5\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

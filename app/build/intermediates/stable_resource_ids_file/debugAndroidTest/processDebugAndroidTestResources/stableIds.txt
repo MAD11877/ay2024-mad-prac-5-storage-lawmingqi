@@ -1,2 +1,0 @@
-sg.edu.np.mad.madpractical5.test:style/WhiteBackgroundTheme = 0x7f010001
-sg.edu.np.mad.madpractical5.test:style/WhiteBackgroundDialogTheme = 0x7f010000
