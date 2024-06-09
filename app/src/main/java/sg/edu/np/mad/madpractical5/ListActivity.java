@@ -10,7 +10,6 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-
 import java.util.ArrayList;
 import java.util.Random;
 
@@ -18,7 +17,6 @@ import java.util.Random;
 
 public class ListActivity extends AppCompatActivity {
     private ArrayList<User> list;
-    private ImageView imageView;
     private UserAdapter userAdapter;
     private MyDBHandler dbHandler;
 

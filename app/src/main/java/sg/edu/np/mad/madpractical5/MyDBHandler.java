@@ -88,13 +88,6 @@ public class MyDBHandler extends SQLiteOpenHelper{
         return users;
     }
 
-    public void updateUser(User user){
-        SQLiteDatabase db = this.getWritableDatabase();
-        ContentValues values = new ContentValues();
-        values.put(COLUMN_FOLLOWED,user.getFollowed());
-        db.update(TABLE_USERS,values,COLUMN_ID + "=?", new String[] {String.valueOf(user.getId())});
-    }
-
     public User getUser(String username) {
         SQLiteDatabase db = getReadableDatabase();
         User user = new User("", "", 1,true);
