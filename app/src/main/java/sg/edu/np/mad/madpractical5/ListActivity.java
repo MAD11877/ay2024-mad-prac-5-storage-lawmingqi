@@ -1,7 +1,6 @@
 package sg.edu.np.mad.madpractical5;
 
 import android.os.Bundle;
-import android.widget.ImageView;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -18,7 +17,7 @@ import java.util.Random;
 public class ListActivity extends AppCompatActivity {
     private ArrayList<User> list;
     private UserAdapter userAdapter;
-    private MyDBHandler dbHandler;
+    private DatabaseHandler dbHandler;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,7 +30,7 @@ public class ListActivity extends AppCompatActivity {
             return insets;
         });
 
-        dbHandler = new MyDBHandler(this, null, null, 1);
+        dbHandler = new DatabaseHandler(this, null, null, 1);
 
         // Check if database is empty
         list = dbHandler.getUsers();
